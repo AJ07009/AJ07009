@@ -30,13 +30,15 @@
 
 <p align="left">I'm Aidan Josias, a software engineer from South Africa<br><br>- 🔭 I’m working as a co-founder and Software Engineer<br>- 📚 I'm currently learning Scrapy<br>- ⚡ In my free time I learn about international affairs and gaming</p>
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
 <h3 align = "left"> 📫 How to reach me: email - josiasaidan@gmail.com </h3>
+
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 <div align="left">
@@ -76,5 +78,4 @@
 <p align="left">Hello World!!</p>
 
 ###
-- ⚡ Fun fact: ...
--->
+
