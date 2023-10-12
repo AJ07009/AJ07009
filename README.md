@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ###
 
 <div align="center">
@@ -24,7 +22,7 @@
 
 ###
 
-<p align="left">I'm Aidan Josias, a software engineer from South Africa<br><br>- 🔭 I’m working as a co-founder and Software Engineer<br>- 📚 I'm currently learning Scrapy<br>- ⚡ In my free time I learn about international affairs and game</p>
+<p align="left">I'm Aidan Josias, a software engineer from South Africa<br><br>- 🔭 I’m working as a co-founder and Software Engineer<br>- 📚 I'm currently learning Scrapy<br>- ⚡ In my free time I learn about international affairs and gaming</p>
 
 ###
 
